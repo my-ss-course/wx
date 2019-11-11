@@ -1,6 +1,6 @@
-# 微信开发接入步骤
+## 微信开发接入步骤
 
-接入微信公众平台开发，开发者需要按照如下步骤完成：
+  接入微信公众平台开发，开发者需要按照如下步骤完成：
 
 * 填写服务器配置
 
@@ -11,6 +11,7 @@
 ---
 
 ## 填写服务器配置
+
 
 ---
 
@@ -28,37 +29,5 @@
 
 ---
 
-# Title
 
-* Point 1
-* Point 2
-
----
-
-## Second slide
-
-> Best quote ever.
-
-Note: speaker notes FTW!
-
-
-
----
----
-title: Foobar
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: solarized
-revealOptions:
-    transition: 'fade'
----
-Foo
-
-Note: test note
-
-<!--s-->
-
-# Bar
-
-<!--v-->
 
