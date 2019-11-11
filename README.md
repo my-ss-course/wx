@@ -6,12 +6,12 @@
 
 * 小程序官方开发文档：[https://developers.weixin.qq.com/miniprogram/dev/framework/](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
-----
+---
 
 # 本文档主要内容
 
 * 微信公众号开发实践
-* 微信小程序开发时间
+* 微信小程序开发实践
 
 
 
