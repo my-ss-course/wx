@@ -9,6 +9,12 @@
 * 依据接口文档实现业务逻辑
 
 ---
+## 接口测试账号入口
+
+https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+
+
+---
 
 ## 填写服务器配置
 
