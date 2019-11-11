@@ -13,7 +13,7 @@
 
 https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
-
+![](/doc/images/01@2x.png)
 ---
 
 ## 填写服务器配置
