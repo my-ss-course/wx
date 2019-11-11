@@ -6,3 +6,10 @@ Django是一个开放源代码的Web应用框架，由Python写成。Django已�
 
 Python3+Django+uWSGI+Nginx
 
+
+## 参考文章
+https://blog.csdn.net/zv3e189os5c0tsknrbcl/article/details/79441600
+https://www.cnblogs.com/djangocn/p/9538551.html
+https://www.cnblogs.com/opsprobe/p/10507203.html
+
+
