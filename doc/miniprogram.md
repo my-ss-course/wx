@@ -11,12 +11,16 @@
 ## 渲染层和逻辑层
 ![](images/ad156d1c.png)
 
-参考文章
 
-* https://blog.csdn.net/qq_42853241/article/details/89098211
+## 调试
+### vConsole
+在真机上，如果想要查看 console API 输出的日志内容和额外的调试信息，需要在点击屏幕右上角的按钮打开的菜单里选择「打开调试」。此时小程序/小游戏会退出，重新打开后会右下角会出现一个 vConsole 按钮。点击 vConsole 按钮可以打开日志面板。
 
-* https://www.cnblogs.com/demodashi/p/8481610.html
 
-* https://blog.csdn.net/lwzhang1101/article/details/87603135
+## 参考文章
 
-* https://www.cnblogs.com/leafinwind/p/10298957.html
+* 官方文档  https://developers.weixin.qq.com/miniprogram/dev/
+* 天气预报小程序案例 https://blog.csdn.net/qq_42853241/article/details/89098211
+* 天气预报小程序案例 https://www.cnblogs.com/demodashi/p/8481610.html
+* 天气预报小程序案例 https://blog.csdn.net/lwzhang1101/article/details/87603135
+* 天气预报小程序案例 https://www.cnblogs.com/leafinwind/p/10298957.html
